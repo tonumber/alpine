@@ -2,4 +2,4 @@
 Alpine bot.
 
 
-![Alpine Ad](https://cdn.discordapp.com/attachments/731627843897000057/804428500248690698/alpineHero.png =250x400))
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
